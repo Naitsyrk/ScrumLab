@@ -1,0 +1,24 @@
+Setup:
+    1. Stworz folder np. ScrumLab
+    2. otwórz w nim terminal:
+    3. komenda:
+        1. git clone <ssh do developera>
+    4. komenda
+        1. python3 -m venv venv
+    5. odpal venva:
+        1. source venv/bin/activate
+        2. sprawdź wersję pythona
+            1. python -- version (powinna być 3.8.10)
+    6. zainstaluj:
+        1. pip install django
+        2. sprawdź wersję django
+            1. python -m django --version (powinna być 4.0.1)
+        3. pip install bpython
+        4. sprawdź wersję bpythona
+            1. bpython – version (powinna być 0.22.1 on top of Python 3.8.10
+    7. przełącz się na gałąź developer
+        1. git checout developer
+    8. sprawdź czy na niej jesteś
+        1. git branch
+        2. powinny się na niej pojawić jesteś jeżeli to developer idziesz dalej:
+    9. stwórz fetch pod zadanie i działaj
