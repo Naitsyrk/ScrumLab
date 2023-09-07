@@ -1,4 +1,4 @@
 # ScrumLab
-On Coders Lab course we had team project, with using Agile - Scrum.
 
-I have prepared part of this project with two other programmers. This readme will be updated in what was my part.
+The website was created as part of the course module: "Scrum Lab" – which main purpose was to familiarize us with the methodology of "Agile" work with the use of tool Trello. 
+The project was prepared in a team of three. The functionalities of the website focus on managing recipes and nutritional plans.
